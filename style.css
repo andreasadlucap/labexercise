@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(182, 111, 182);
+}
+h1{
+    font: 10vh;
+    color: azure;
+    text-align: center;
+}
+.container{
+    align-items: center;
+    width: 550px;
+    height: 500px;
+    border: 1px solid white;
+    background-color: aliceblue;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    padding: 10vh
+   
+}
+
+#quote {
+    background-color: bisque;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#generate-btn {
+     background-color: azure;
+     color: black;
+     border-radius: 10px;
+     height: 80px;
+     width:20vh;
+     padding: 10px 20px;
+     cursor: pointer;
+     margin: 30px 0;
+}
